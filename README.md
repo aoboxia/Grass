@@ -1,1 +1,3 @@
-# Grass
+# GRASS: UNIFIED GENERATION MODEL FOR SPEECH SEMANTIC UNDERSTANDING
+
+We will publish our code here soon
